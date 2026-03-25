@@ -1,0 +1,15 @@
+[icepvp]
+name="IcePVP"
+IP_ADDRESS=icepvp.xyz
+VERSIONS=1.21-lst
+country=IL
+[sample]
+name="SampleMC"
+IP_ADDRESS=node-2.worldspace.cloud:25565
+VERSIONS=1.21.4
+country=IL,USA
+[sampletwo]
+name="Sampletwo"
+IP_ADDRESS=node-2.worldspace.cloud:25565
+VERSIONS=1.21.4,1.21.6
+country=GLOBAL
